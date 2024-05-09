@@ -1,0 +1,18 @@
+Needs to be half as long
+
+be more specific with the rl, mention the specific community and be a voice to that community.. talk about how hierarchical RL emerging as a tool rather than just RL.
+
+reference the proposed work dont reference research directly. Last half would go into an intro. more specific.. maybe no generalization.
+hierarchical rol -> Grid cell representation -> then maybe some generalization out of it.
+
+"However, the question of whether introducing hierarchical
+structure into SR models can further enhance their adaptability and gen-
+eralization capabilities remains largely unexplored."
+
+this is one of the many proposals i make in the abstract... choose one and stick with it.
+keep it specific to one research question. in case there is no time to do all of them
+
+reference planned results
+
+*No abbreviations in abstract*
+

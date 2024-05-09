@@ -1,0 +1,17 @@
+bdeu
+Accuracy: 0.74
+Precision: 0.71
+Sensitivity: 0.80
+F1-score: 0.75
+
+Bic
+Accuracy: 0.74
+Precision: 0.72
+Sensitivity: 0.80
+F1-score: 0.75
+
+k2
+Accuracy: 0.77
+Precision: 0.75
+Sensitivity: 0.81
+F1-score: 0.78
